@@ -5,7 +5,8 @@
 
 **Build a table**
 An HTML table is built with the following tag structure:
-    <table>
+
+    ```<table>
       <tr>
         <th>name</th>
         <th>height</th>
@@ -17,6 +18,7 @@ An HTML table is built with the following tag structure:
         <td>Tanzania</td>
       </tr>
     </table>
+  ```
 
 For each row, the <table> tag contains a <tr> tag. Inside of these <tr> tags,
 we can put cell elements: either heading cells (<th>) or regular cells (<td>).
